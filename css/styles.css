@@ -1,0 +1,112 @@
+body{
+  background-color: aliceBlue;
+}
+
+.container-fluid h1 {
+  margin-top: 1.5%;
+  text-align: center;
+  color: cornflowerBlue ;
+  font-weight: bold;
+}
+
+.container-fluid h2 { /*question.html*/
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.container-fluid p { /*question.html*/
+  margin-top: 2.5%;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 2vw;
+}
+
+.container-fluid ul { /*question.html*/
+  margin-top: 4%;
+  margin-bottom: 5.2%;
+  color: black;
+  font-weight: bold;
+  font-size: 2vw;
+}
+
+#back { /*question.html*/
+  color: black;
+  font-weight: bold;
+  font-size: 2vw;
+}
+
+.back{ /*question.html*/
+  margin: 2.5%
+}
+
+.game {
+  margin: 2.5% 2.5% auto 2.5%;
+  height: auto;
+  width: auto;
+  background-color: DarkTurquoise;
+  border-style: double;
+}
+
+/*.ques {
+  margin: 2.5% 2.5% auto 2.5%;
+  height: auto;
+  width: auto;
+  background-color: cadetBlue;
+  border-style: inset;
+}*/
+
+.ctg{
+  text-align: center;
+  font-size: 1.5vw;
+  font-weight: bold;
+  line-height: 2em;
+  color: lightYellow ;
+  background-color: lightBlue;
+}
+
+.pts{
+  text-align: center;
+  font-size: 1.5vw;
+  font-weight: bold;
+  line-height: 2em;
+  background-color: deepSkyBlue;
+  color: white;
+}
+
+.pts:hover{
+  background-color: red;
+}
+
+/*.pts1{
+  text-align: center;
+  font-size: 1.5vw;
+  font-weight: bold;
+  line-height: 2em;
+  background-color: cadetBlue;
+}*/
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover, a:active, a:visited, a:focus{
+  text-decoration: none;
+}
+
+.score{
+  margin-top: 2.5%;
+  margin-left: 2.5%;
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+  width: 15%;
+  background-color: black;
+  font-size: 1.8vw;
+  color: white;
+  border-style: solid;
+    border-width: 4px;
+    border-color: green;
+}
